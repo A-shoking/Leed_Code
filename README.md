@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/A-shoking/Leed_Code/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/A-shoking/Leed_Code/tree/master/0560-subarray-sum-equals-k) |
+| [1319-unique-number-of-occurrences](https://github.com/A-shoking/Leed_Code/tree/master/1319-unique-number-of-occurrences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/A-shoking/Leed_Code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/A-shoking/Leed_Code/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/A-shoking/Leed_Code/tree/master/0560-subarray-sum-equals-k) |
+| [1319-unique-number-of-occurrences](https://github.com/A-shoking/Leed_Code/tree/master/1319-unique-number-of-occurrences) |
 ## Stack
 |  |
 | ------- |
