@@ -36,11 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/A-shoking/Leed_Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/A-shoking/Leed_Code/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/A-shoking/Leed_Code/tree/master/0020-valid-parentheses) |
+| [0345-reverse-vowels-of-a-string](https://github.com/A-shoking/Leed_Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/A-shoking/Leed_Code/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
