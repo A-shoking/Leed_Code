@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/A-shoking/Leed_Code/tree/master/0011-container-with-most-water) |
 | [0217-contains-duplicate](https://github.com/A-shoking/Leed_Code/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/A-shoking/Leed_Code/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/A-shoking/Leed_Code/tree/master/0496-next-greater-element-i) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/A-shoking/Leed_Code/tree/master/0011-container-with-most-water) |
 | [0345-reverse-vowels-of-a-string](https://github.com/A-shoking/Leed_Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/A-shoking/Leed_Code/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/A-shoking/Leed_Code/tree/master/0217-contains-duplicate) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/A-shoking/Leed_Code/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
