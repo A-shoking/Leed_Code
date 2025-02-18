@@ -4,6 +4,7 @@ class Solution {
         int max = Integer.MIN_VALUE;
         double total = 0 ;
         for(int i : salary){
+            total += i ;
             if(i > max){
                 max = i ;
             }
@@ -11,17 +12,9 @@ class Solution {
                 min = i ;
             }
         }
-       // System.out.println(min);
-        //System.out.println(max);
-        for(int i : salary){
-            if(i == min || i == max){
-                continue;
-            }
-            total += i ; 
-
-        }
-        //System.out.print("total"+ total);
-        double avg = total/(salary.length-2);
+     
+  
+        double avg = (total - (min + max))/(salary.length-2);
         return avg;
 
 
