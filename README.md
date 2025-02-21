@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/A-shoking/Leed_Code/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/A-shoking/Leed_Code/tree/master/0496-next-greater-element-i) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/A-shoking/Leed_Code/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/A-shoking/Leed_Code/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/A-shoking/Leed_Code/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/A-shoking/Leed_Code/tree/master/0345-reverse-vowels-of-a-string) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/A-shoking/Leed_Code/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/A-shoking/Leed_Code/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
