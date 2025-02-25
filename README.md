@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/A-shoking/Leed_Code/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/A-shoking/Leed_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/A-shoking/Leed_Code/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/A-shoking/Leed_Code/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/A-shoking/Leed_Code/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/A-shoking/Leed_Code/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/A-shoking/Leed_Code/tree/master/0560-subarray-sum-equals-k) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/A-shoking/Leed_Code/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/A-shoking/Leed_Code/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/A-shoking/Leed_Code/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/A-shoking/Leed_Code/tree/master/0560-subarray-sum-equals-k) |
 | [1319-unique-number-of-occurrences](https://github.com/A-shoking/Leed_Code/tree/master/1319-unique-number-of-occurrences) |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/A-shoking/Leed_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/A-shoking/Leed_Code/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
