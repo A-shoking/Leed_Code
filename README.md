@@ -80,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/A-shoking/Leed_Code/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/A-shoking/Leed_Code/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
