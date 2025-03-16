@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/A-shoking/Leed_Code/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/A-shoking/Leed_Code/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/A-shoking/Leed_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/A-shoking/Leed_Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/A-shoking/Leed_Code/tree/master/0219-contains-duplicate-ii) |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/A-shoking/Leed_Code/tree/master/0009-palindrome-number) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/A-shoking/Leed_Code/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
