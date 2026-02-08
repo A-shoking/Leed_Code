@@ -7,13 +7,10 @@ class Solution {
                 max_candies = can;
             }
         }
-        for(int candi : candies){
-            if( candi + extraCandies >= max_candies) {
-                result.add(true);
-            }else { result.add(false);}
+        for (int candi : candies) {
+           result.add(candi + extraCandies >= max_candies);
         }
-
-    return result;
+        return result;
         
     }
 }
