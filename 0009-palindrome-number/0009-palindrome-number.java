@@ -1,18 +1,17 @@
 class Solution {
     public boolean isPalindrome(int x) {
-
         String chk = Integer.toString(x);
-        int left_ptr = 0;
-        int right_ptr = chk.length()-1;
+        char left = 0;
+        char right = chk.length() - 1;
 
-        while(left_ptr < right_ptr) {
-            if(chk.charAt(left_ptr) == chk.charAt(right_ptr)){
-                left_ptr++;
-                right_ptr--;
+        while(left < right) {
+            if(s.charAt(left) == s.charAt(right)){
+                left++;
+                right--;
             } else {
-                    return false;
+                return false;
             }
         }
-        return true;    
+        return true;
     }
 }
