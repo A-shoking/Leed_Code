@@ -1,8 +1,8 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        String chk = Integer.toString(x);
-        char left = 0;
-        char right = chk.length() - 1;
+        String s = Integer.toString(x);
+        int left = 0;
+        int right = s.length() - 1;
 
         while(left < right) {
             if(s.charAt(left) == s.charAt(right)){
