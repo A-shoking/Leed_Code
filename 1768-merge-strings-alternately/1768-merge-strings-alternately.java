@@ -5,17 +5,12 @@ class Solution {
     StringBuilder comb = new StringBuilder();
 
     for(int i =0 ; i < max;i++){
-        if(i < word1.length() && i < word2.length()){
-           comb.append(word1.charAt(i));
-            comb.append(word2.charAt(i));
-        } else {
-            if(i < word1.length()){
-                 comb.append(word1.charAt(i));
-            }if(i < word2.length()) {
-                  comb.append(word2.charAt(i));
-            }
-         
+        if(i < word1.length()){
+                comb.append(word1.charAt(i));
+        }if(i < word2.length()) {
+                comb.append(word2.charAt(i));
         }
+
     }
     return comb.toString();
     }
