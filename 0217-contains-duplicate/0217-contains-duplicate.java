@@ -2,17 +2,15 @@ class Solution {
     public boolean containsDuplicate(int[] nums) {
         Arrays.sort(nums);
         int start =0;
-        while(start < nums.length-1){
-
-            if(nums[start] == nums[start+1]){
+        int right = 1;
+        while (right < nums.length) {
+            if (nums[start] == nums[right]) {
                 return true;
-            }else {
+            } else {
                 start++;
-
+                right++;
             }
         }
-        return false;
-
-        
+        return false;  
     }
 }
