@@ -5,7 +5,6 @@ class Solution {
       int left = 0;
       int right = s.length()-1;
       StringBuilder sb = new StringBuilder(s);
-
       while(left < right) {
         if(!st.contains(s.charAt(left))) {
             left++;
@@ -20,6 +19,6 @@ class Solution {
 
         }
       }
-      return sb.toString();
+    return sb.toString();
     }
 }
