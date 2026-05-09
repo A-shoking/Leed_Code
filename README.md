@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/A-shoking/Leed_Code/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/A-shoking/Leed_Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/A-shoking/Leed_Code/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/A-shoking/Leed_Code/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/A-shoking/Leed_Code/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/A-shoking/Leed_Code/tree/master/0560-subarray-sum-equals-k) |
 | [1319-unique-number-of-occurrences](https://github.com/A-shoking/Leed_Code/tree/master/1319-unique-number-of-occurrences) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/A-shoking/Leed_Code/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/A-shoking/Leed_Code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/A-shoking/Leed_Code/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/A-shoking/Leed_Code/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/A-shoking/Leed_Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0886-score-of-parentheses](https://github.com/A-shoking/Leed_Code/tree/master/0886-score-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/A-shoking/Leed_Code/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/A-shoking/Leed_Code/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/A-shoking/Leed_Code/tree/master/0242-valid-anagram) |
 | [1306-minimum-absolute-difference](https://github.com/A-shoking/Leed_Code/tree/master/1306-minimum-absolute-difference) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/A-shoking/Leed_Code/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/A-shoking/Leed_Code/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
