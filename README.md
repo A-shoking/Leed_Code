@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/A-shoking/Leed_Code/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/A-shoking/Leed_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/A-shoking/Leed_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/A-shoking/Leed_Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/A-shoking/Leed_Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/A-shoking/Leed_Code/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/A-shoking/Leed_Code/tree/master/0238-product-of-array-except-self) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/A-shoking/Leed_Code/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/A-shoking/Leed_Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/A-shoking/Leed_Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/A-shoking/Leed_Code/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/A-shoking/Leed_Code/tree/master/0242-valid-anagram) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/A-shoking/Leed_Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/A-shoking/Leed_Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/A-shoking/Leed_Code/tree/master/0242-valid-anagram) |
 | [1306-minimum-absolute-difference](https://github.com/A-shoking/Leed_Code/tree/master/1306-minimum-absolute-difference) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/A-shoking/Leed_Code/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/A-shoking/Leed_Code/tree/master/0383-ransom-note) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/A-shoking/Leed_Code/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 ## Math
@@ -118,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/A-shoking/Leed_Code/tree/master/0175-combine-two-tables) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/A-shoking/Leed_Code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
