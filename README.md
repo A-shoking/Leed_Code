@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/A-shoking/Leed_Code/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/A-shoking/Leed_Code/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/A-shoking/Leed_Code/tree/master/0605-can-place-flowers) |
+| [0977-squares-of-a-sorted-array](https://github.com/A-shoking/Leed_Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/A-shoking/Leed_Code/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/A-shoking/Leed_Code/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/A-shoking/Leed_Code/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/A-shoking/Leed_Code/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/A-shoking/Leed_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/A-shoking/Leed_Code/tree/master/0345-reverse-vowels-of-a-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/A-shoking/Leed_Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/A-shoking/Leed_Code/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/A-shoking/Leed_Code/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/A-shoking/Leed_Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/A-shoking/Leed_Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/A-shoking/Leed_Code/tree/master/0242-valid-anagram) |
+| [0977-squares-of-a-sorted-array](https://github.com/A-shoking/Leed_Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/A-shoking/Leed_Code/tree/master/1306-minimum-absolute-difference) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/A-shoking/Leed_Code/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/A-shoking/Leed_Code/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
