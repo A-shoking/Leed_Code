@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/A-shoking/Leed_Code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/A-shoking/Leed_Code/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/A-shoking/Leed_Code/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [2553-separate-the-digits-in-an-array](https://github.com/A-shoking/Leed_Code/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/A-shoking/Leed_Code/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/A-shoking/Leed_Code/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
