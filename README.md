@@ -136,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/A-shoking/Leed_Code/tree/master/2553-separate-the-digits-in-an-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/A-shoking/Leed_Code/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
